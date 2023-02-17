@@ -1,4 +1,4 @@
-para crear el archivo de manera local necesita estar dentro del aplicativo, en motoparts
+para crear el archivo de manera local necesita estar dentro del aplicativo, en la ruta motoparts/Proyecto/motoparts/ <br>
 Use los siguiente comandos para construir los contenedores:
 <br>
 $ docker-compose up -d --build<br>
